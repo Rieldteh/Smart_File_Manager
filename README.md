@@ -1,8 +1,8 @@
 # Smart_File_Manager
 Easy way to sort files
 
-Установка при скачивании:
+Установка при скачивании исходника:
 
-1)Внутри скаченного архива найти архив tenserflow.rar и файл внутри и переместить его в ...\Smart_File_Manager\output\main
+1)Скачать https://drive.google.com/file/d/1XKpAmhNeVqIEiqdRIH868PigZrDn4LQq/view?usp=share_link и преместить файл внутри архива в ...\Smart_File_Manager\output\main
 
 2)Запустить файл \Smart_File_Manager\output\main\main.exe
