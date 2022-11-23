@@ -1,8 +1,8 @@
 # Smart_File_Manager
 Easy way to sort files
 
-Установка при скачивании исходника:
+Установка исходника:
 
-1)Скачать https://drive.google.com/file/d/1XKpAmhNeVqIEiqdRIH868PigZrDn4LQq/view?usp=share_link и преместить файл внутри архива в ...\Smart_File_Manager\output\main
+1)Перейти в терминал Python и написать pip install tensorflow.
 
-2)Запустить файл \Smart_File_Manager\output\main\main.exe
+2)После скачивания всех необходимых файлов произвести запуск проекта.
